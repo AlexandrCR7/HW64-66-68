@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\bin\Debug\net6.0\HomeTask64.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\bin\Debug\net6.0\HomeTask64.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\bin\Debug\net6.0\HomeTask64.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\bin\Debug\net6.0\HomeTask64.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\bin\Debug\net6.0\HomeTask64.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\refint\HomeTask64.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\HomeTask64.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Recursion\HomeTask64\obj\Debug\net6.0\ref\HomeTask64.dll
